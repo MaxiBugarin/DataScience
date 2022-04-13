@@ -1,2 +1,2 @@
 # DataScience
-Curso de Ciencia de DAtos
+Curso de Ciencia de Datos
